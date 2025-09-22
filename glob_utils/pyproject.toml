@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "glob_utils"
+version = "0.1.0"
+description = "Shared utility functions"
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+dependencies = []  # add any required packages here
+
+[tool.setuptools.packages.find]
+where = ["."]

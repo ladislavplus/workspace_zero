@@ -1,0 +1,7 @@
+pyproject.toml
+glob_utils/__init__.py
+glob_utils/helpers.py
+glob_utils.egg-info/PKG-INFO
+glob_utils.egg-info/SOURCES.txt
+glob_utils.egg-info/dependency_links.txt
+glob_utils.egg-info/top_level.txt
