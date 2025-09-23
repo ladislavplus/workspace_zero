@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-./xyz_app/__init__.py
-./xyz_app/module_xyz.py
-tests/test_dummy.py
-xyz_app.egg-info/PKG-INFO
-xyz_app.egg-info/SOURCES.txt
-xyz_app.egg-info/dependency_links.txt
-xyz_app.egg-info/top_level.txt

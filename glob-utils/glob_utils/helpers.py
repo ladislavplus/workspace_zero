@@ -11,5 +11,5 @@ def get_text_dummy(str):
     return str + "dummy added."
 
 def get_global_text():
-    txt = os.getenv("ENVVAR", "none")
+    txt = os.getenv("ENVVAR")
     return txt
